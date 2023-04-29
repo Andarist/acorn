@@ -8,6 +8,7 @@
   "exports": {
     ".": [
       {
+        "types": "./dist/acorn.d.ts",
         "import": "./dist/acorn.mjs",
         "require": "./dist/acorn.js",
         "default": "./dist/acorn.js"
